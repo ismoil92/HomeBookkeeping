@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T17:38:44.601Z" agent="5.0 (Windows)" etag="ZLMxKmXF4hLuK2ZMriBu" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T17:40:48.660Z" agent="5.0 (Windows)" etag="u7dSKVtage7xjyCwCdJU" version="20.2.3" type="github">
   <diagram id="w1dnpUEvMhEvdPbRBXxU" name="Страница 1">
     <mxGraphModel dx="782" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tBsZ1mqLhtJ_U9FoXnE3-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBsZ1mqLhtJ_U9FoXnE3-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBsZ1mqLhtJ_U9FoXnE3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="210" as="sourcePoint" />
+            <mxPoint x="400" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBsZ1mqLhtJ_U9FoXnE3-4" value="a, b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
